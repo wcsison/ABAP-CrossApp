@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CA_INBOUND_IDOC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Inbound Idoc</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_INBOUND_IDOC</CLSNAME>
+     <CMPNAME>MO_MESSAGES</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Messages</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_INBOUND_IDOC</CLSNAME>
+     <CMPNAME>MT_IDOC_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type for EDIDD (IDoc Data Records)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_CA_INBOUND_IDOC</CLSNAME>
+     <CMPNAME>MT_IDOC_STATUS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table for IDoc Status</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
